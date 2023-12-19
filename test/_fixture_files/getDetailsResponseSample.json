@@ -1,0 +1,237 @@
+{
+    "orderName": "ORDER NAME",
+    "key": "key",
+    "results": [
+        {
+            "name": "ORDER NAME",
+            "key": "key",
+            "showName": false,
+            "showDetails": true,
+            "orderMetadata": {
+                "orderProviderName": "",
+                "authorizingProviderName": "Dr. Strange",
+                "authorizingProviderID": null,
+                "unreadCommentingProviderName": "",
+                "readingProviderName": null,
+                "resultTimestampDisplay": "November 11, 2011 11:11 PM",
+                "collectionTimestampsDisplay": "November 11, 2011 11:11 PM",
+                "deviceReadTimestampDisplay": null,
+                "specimensDisplay": "",
+                "resultStatus": "Final",
+                "resultingLab": {
+                    "name": "The lab",
+                    "address": [
+                        "21 Jump St.",
+                        "New Orleans, LA 70130"
+                    ],
+                    "phoneNumber": "000-000-0000",
+                    "labDirector": "",
+                    "cliaNumber": ""
+                },
+                "resultType": 1,
+                "read": 0
+            },
+            "fdiLink": null,
+            "resultComponents": [
+                {
+                    "componentInfo": {
+                        "componentID": "componentId_1",
+                        "name": "CHOLESTEROL",
+                        "commonName": "CHOLESTEROL-NUTRITION",
+                        "units": "mg/dL"
+                    },
+                    "componentResultInfo": {
+                        "value": "150",
+                        "isValueRtf": false,
+                        "numericValue": 150.0,
+                        "referenceRange": {
+                            "low": 0.0,
+                            "high": 200.0,
+                            "displayLow": "0",
+                            "displayHigh": "200",
+                            "formattedReferenceRange": "0 - 200"
+                        },
+                        "abnormalFlagCategoryValue": 4,
+                        "dateISO": null
+                    },
+                    "componentComments": {
+                        "isRTF": false,
+                        "hasContent": false,
+                        "contentAsString": "",
+                        "contentAsHtml": "",
+                        "signingPersonName": null,
+                        "signingInstantTimestamp": null
+                    }
+                },
+                {
+                    "componentInfo": {
+                        "componentID": "componentId_2",
+                        "name": "TRIGLYCERIDE",
+                        "commonName": "TRIGLYCERIDE",
+                        "units": "mg/dL"
+                    },
+                    "componentResultInfo": {
+                        "value": "100",
+                        "isValueRtf": false,
+                        "numericValue": 100.0,
+                        "referenceRange": {
+                            "low": 0.0,
+                            "high": 150.0,
+                            "displayLow": "0",
+                            "displayHigh": "150",
+                            "formattedReferenceRange": "0 - 150"
+                        },
+                        "abnormalFlagCategoryValue": 4,
+                        "dateISO": null
+                    },
+                    "componentComments": {
+                        "isRTF": false,
+                        "hasContent": false,
+                        "contentAsString": "",
+                        "contentAsHtml": "",
+                        "signingPersonName": null,
+                        "signingInstantTimestamp": null
+                    }
+                }
+            ],
+            "studyResult": {
+                "narrative": {
+                    "isRTF": false,
+                    "hasContent": false,
+                    "contentAsString": "",
+                    "contentAsHtml": "",
+                    "signingPersonName": null,
+                    "signingInstantTimestamp": "11/11/2011 11:11 PM"
+                },
+                "impression": {
+                    "isRTF": false,
+                    "hasContent": false,
+                    "contentAsString": "",
+                    "contentAsHtml": "",
+                    "signingPersonName": null,
+                    "signingInstantTimestamp": "11/11/2011 11:11 PM"
+                },
+                "combinedRTFNarrativeImpression": {
+                    "isRTF": false,
+                    "hasContent": false,
+                    "contentAsString": "",
+                    "contentAsHtml": "",
+                    "signingPersonName": null,
+                    "signingInstantTimestamp": "11/11/2011 11:11 PM"
+                },
+                "addenda": [],
+                "isCupidAddendum": false,
+                "transcriptions": [],
+                "ecgDiagnosis": [],
+                "hasStudyContent": false
+            },
+            "shouldHideHistoricalData": false,
+            "resultNote": {
+                "isRTF": false,
+                "hasContent": false,
+                "contentAsString": "",
+                "contentAsHtml": "",
+                "signingPersonName": null,
+                "signingInstantTimestamp": "11/11/2023 9:20 PM"
+            },
+            "reportDetails": {
+                "isDownloadablePDFReport": false,
+                "reportID": "",
+                "openRemotely": true,
+                "remoteReportLink": "someLink",
+                "reportContext": null,
+                "reportVars": {
+                    "ordId": "ordId",
+                    "ordDat": "ordData"
+                }
+            },
+            "scans": [],
+            "imageStudies": [],
+            "indicators": [],
+            "geneticProfileLink": "geneticProfileLink",
+            "shareEverywhereLogin": false,
+            "showProviderNotReviewed": false,
+            "providerComments": [
+                {
+                    "content": {
+                        "wmgId": "wmgId",
+                        "isUnread": false,
+                        "deliveryInstantISO": "2011-11-11T11:11:11+00:00",
+                        "body": "body"
+                    },
+                    "author": {
+                        "empId": "empId",
+                        "providerId": "providerId",
+                        "name": "Dr. Strange",
+                        "photoUrl": "",
+                        "photoBlobFileName": null,
+                        "organizationId": "orgId",
+                        "remoteEncrypted": true
+                    }
+                }
+            ],
+            "resultLetter": {
+                "isRTF": false,
+                "hasContent": false,
+                "contentAsString": "",
+                "contentAsHtml": "",
+                "signingPersonName": null,
+                "signingInstantTimestamp": "11/11/1911 11:11 PM"
+            },
+            "warningType": "",
+            "warningMessage": "",
+            "variants": [],
+            "tooManyVariants": false,
+            "hasComment": false,
+            "hasAllDetails": true,
+            "isAbnormal": false,
+            "dataForInlineH2G": {
+                "contextDict": [
+                    {
+                        "mnemonic": "mnemonic_1",
+                        "value": "value_1"
+                    },
+                     {
+                        "mnemonic": "mnemonic_2",
+                        "value": "value_2"
+                    }
+                ]
+            }
+        }
+    ],
+    "providerStatusPopupHTML": null,
+    "orderLimitReached": false,
+    "ordersDeduplicated": false,
+    "askQuestionLink": null,
+    "hideEncInfo": false,
+    "formattedEncDate": null,
+    "contactType": null,
+    "organizationInfo": {
+        "organizationId": "orgId",
+        "organizationName": "orgName",
+        "logoUrl": "logoUrl",
+        "isLocal": false,
+        "isSSO": false,
+        "incompleteH2GSetup": false,
+        "contactInformation": null,
+        "address": [
+            "21 Jump St.",
+            "New Orleans, LA 70310",
+            "United States of America"
+        ],
+        "linkType": 1,
+        "timeStamp": null,
+        "formattedLocalTimeStamp": "",
+        "currentlyLoadingData": false,
+        "errorLoadingData": false,
+        "hasValidRefreshToken": false,
+        "shouldRemindForUpdate": false,
+        "showInRefreshBanner": false,
+        "disclaimerOverride": false
+    },
+    "organizationBanner": {
+        "bannerMessage": 0,
+        "name": "Arkham Asylum",
+        "logoUrl": "logoUrl"
+    }
+}

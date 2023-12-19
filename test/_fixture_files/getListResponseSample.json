@@ -1,0 +1,212 @@
+{
+    "areResultsFullyLoaded": false,
+    "isGroupingFullyLoaded": false,
+    "groupBy": 1,
+    "newResultGroups": [
+        {
+            "key": "key1",
+            "contactType": "",
+            "resultList": [
+                "key1"
+            ],
+            "isInpatient": true,
+            "isCurrentAdmission": false,
+            "formattedAdmitDate": "Dec 19, 2012",
+            "formattedDischargeDate": "Dec 20, 2012",
+            "visitProviderID": "",
+            "organizationID": "orgKey1",
+            "sortDate": "2012-12-20T00:30:00-08:00",
+            "formattedDate": "Dec 20, 2012",
+            "isLargeGroup": false
+        },
+        {
+            "key": "key2",
+            "contactType": "",
+            "resultList": [
+                "key2"
+            ],
+            "isInpatient": false,
+            "isCurrentAdmission": false,
+            "formattedAdmitDate": null,
+            "formattedDischargeDate": null,
+            "visitProviderID": "",
+            "organizationID": "orgKey1",
+            "sortDate": "2015-07-17T11:54:00-07:00",
+            "formattedDate": "Jul 17, 2015",
+            "isLargeGroup": false
+        },
+        {
+            "key": "key3",
+            "contactType": "",
+            "resultList": [
+                "key3"
+            ],
+            "isInpatient": false,
+            "isCurrentAdmission": false,
+            "formattedAdmitDate": null,
+            "formattedDischargeDate": null,
+            "visitProviderID": "",
+            "organizationID": "orgKey1",
+            "sortDate": "2015-07-17T11:54:00-07:00",
+            "formattedDate": "Jul 17, 2015",
+            "isLargeGroup": false
+        }
+    ],
+    "organizationLoadMoreInfo": {
+        "orgKey1": {
+            "lastGroupKey": "key1",
+            "uniqueGroupCount": 50
+        }
+    },
+    "newResults": {
+        "key1^orgKey1": {
+            "name": "Test1",
+            "key": "key1",
+            "showName": false,
+            "showDetails": true,
+            "orderMetadata": {
+                "orderProviderName": "",
+                "authorizingProviderName": "Captain Marvel",
+                "authorizingProviderID": "authorizingProviderId1",
+                "unreadCommentingProviderName": "",
+                "readingProviderName": null,
+                "resultTimestampDisplay": "November 11, 2011",
+                "collectionTimestampsDisplay": null,
+                "deviceReadTimestampDisplay": null,
+                "specimensDisplay": null,
+                "resultStatus": null,
+                "resultingLab": null,
+                "resultType": 1,
+                "read": 0
+            },
+            "fdiLink": null,
+            "resultComponents": [],
+            "studyResult": null,
+            "shouldHideHistoricalData": false,
+            "resultNote": null,
+            "reportDetails": null,
+            "scans": [],
+            "imageStudies": null,
+            "indicators": null,
+            "geneticProfileLink": null,
+            "shareEverywhereLogin": false,
+            "showProviderNotReviewed": false,
+            "providerComments": [],
+            "resultLetter": null,
+            "warningType": null,
+            "warningMessage": null,
+            "variants": null,
+            "tooManyVariants": false,
+            "hasComment": false,
+            "hasAllDetails": false,
+            "isAbnormal": false,
+            "dataForInlineH2G": null
+        },
+        "key2^orgKey1": {
+            "name": "Test2",
+            "key": "key2",
+            "showName": false,
+            "showDetails": true,
+            "orderMetadata": {
+                "orderProviderName": "",
+                "authorizingProviderName": "Dr. Stein",
+                "authorizingProviderID": "authorizingProviderId2",
+                "unreadCommentingProviderName": "",
+                "readingProviderName": null,
+                "resultTimestampDisplay": "November 11, 2011",
+                "collectionTimestampsDisplay": null,
+                "deviceReadTimestampDisplay": null,
+                "specimensDisplay": null,
+                "resultStatus": null,
+                "resultingLab": null,
+                "resultType": 1,
+                "read": 0
+            },
+            "fdiLink": null,
+            "resultComponents": [],
+            "studyResult": null,
+            "shouldHideHistoricalData": false,
+            "resultNote": null,
+            "reportDetails": null,
+            "scans": [],
+            "imageStudies": null,
+            "indicators": null,
+            "geneticProfileLink": null,
+            "shareEverywhereLogin": false,
+            "showProviderNotReviewed": false,
+            "providerComments": [],
+            "resultLetter": null,
+            "warningType": null,
+            "warningMessage": null,
+            "variants": null,
+            "tooManyVariants": false,
+            "hasComment": false,
+            "hasAllDetails": false,
+            "isAbnormal": false,
+            "dataForInlineH2G": null
+        },
+        "key3^orgKey1": {
+            "name": "Test3",
+            "key": "key3",
+            "showName": false,
+            "showDetails": true,
+            "orderMetadata": {
+                "orderProviderName": "",
+                "authorizingProviderName": "Dr. Zhivago",
+                "authorizingProviderID": "authorizingProviderId3",
+                "unreadCommentingProviderName": "",
+                "readingProviderName": null,
+                "resultTimestampDisplay": "November 11, 2011",
+                "collectionTimestampsDisplay": null,
+                "deviceReadTimestampDisplay": null,
+                "specimensDisplay": null,
+                "resultStatus": null,
+                "resultingLab": null,
+                "resultType": 1,
+                "read": 0
+            },
+            "fdiLink": null,
+            "resultComponents": [],
+            "studyResult": null,
+            "shouldHideHistoricalData": false,
+            "resultNote": null,
+            "reportDetails": null,
+            "scans": [],
+            "imageStudies": null,
+            "indicators": null,
+            "geneticProfileLink": null,
+            "shareEverywhereLogin": false,
+            "showProviderNotReviewed": false,
+            "providerComments": [],
+            "resultLetter": null,
+            "warningType": null,
+            "warningMessage": null,
+            "variants": null,
+            "tooManyVariants": false,
+            "hasComment": false,
+            "hasAllDetails": false,
+            "isAbnormal": false,
+            "dataForInlineH2G": null
+        }
+    },
+    "newProviderPhotoInfo": {
+        "ProviderId1^": {
+            "name": "Freddy Krueger",
+            "empId": "",
+            "remoteEncrypted": true,
+            "photoUrl": "photoUrl",
+            "photoBlobFileName": null,
+            "providerId": "ProviderId1",
+            "organizationId": ""
+        },
+        "ProviderId2^": {
+            "name": "Sean Justin Nabar",
+            "empId": "",
+            "remoteEncrypted": true,
+            "photoUrl": "",
+            "photoBlobFileName": null,
+            "providerId": "ProviderId2",
+            "organizationId": ""
+        }
+    }
+}
